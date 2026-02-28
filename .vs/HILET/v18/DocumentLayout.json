@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|c:\\users\\gc\\desktop\\trabajo\\proyectos\\hilet - proyecto final\\proyecto final - hilet\\hilet\\hilet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|solutionrelative:hilet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\hilet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|solutionrelative:hilet\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|c:\\users\\gc\\desktop\\trabajo\\proyectos\\hilet - proyecto final\\proyecto final - hilet\\hilet\\hilet\\abmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC77D472-82BC-4866-BF29-B0DE73269FE0}|HILET\\HILET.csproj|solutionrelative:hilet\\abmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ABMAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\ABMAlumnos.cs",
+              "RelativeDocumentMoniker": "HILET\\ABMAlumnos.cs",
+              "ToolTip": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\ABMAlumnos.cs",
+              "RelativeToolTip": "HILET\\ABMAlumnos.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAcwLEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T01:39:07.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\Administrador.cs",
+              "RelativeDocumentMoniker": "HILET\\Administrador.cs",
+              "ToolTip": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\Administrador.cs [Design]",
+              "RelativeToolTip": "HILET\\Administrador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T01:39:07.97Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\Administrador.cs",
+              "RelativeDocumentMoniker": "HILET\\Administrador.cs",
+              "ToolTip": "C:\\Users\\gc\\Desktop\\TRABAJO\\PROYECTOS\\HILET - PROYECTO FINAL\\Proyecto Final - Hilet\\HILET\\HILET\\Administrador.cs",
+              "RelativeToolTip": "HILET\\Administrador.cs",
+              "ViewState": "AgIAAHQGAAAAAAAAAAAqwIsGAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T01:39:07.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

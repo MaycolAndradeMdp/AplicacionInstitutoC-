@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ABMCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ABMExamenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Alumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="examenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmConfirmacionAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmConfimacionPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmConfirmacionPerfilProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.Designer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ABMAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ABMMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Materias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonalAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

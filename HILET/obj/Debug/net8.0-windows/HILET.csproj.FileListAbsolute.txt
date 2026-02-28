@@ -1,0 +1,515 @@
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Form1.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HIILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\danie\Desktop\HILET\HIILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Form1.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionPerfilProfesores.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmProfesores.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.FormInicio.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.examenes.resources
+C:\Users\danie\Desktop\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Materias.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.examenes.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.FormInicio.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionPerfilProfesores.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmProfesores.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Materias.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\PROYECTO FINAL\HILET\HILET\HILET\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.examenes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.FormInicio.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionAlumno.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionPerfilProfesores.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmProfesores.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Materias.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.examenes.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.FormInicio.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionAlumno.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionPerfilProfesores.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmProfesores.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Materias.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll
+C:\Users\danie\Desktop\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Administrador.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.exe
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.deps.json
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.runtimeconfig.json
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.AssemblyReference.cache
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET..resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMAlumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMCarreras.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMExamenes.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.ABMMaterias.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Administrador.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Alumnos.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.examenes.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.FormInicio.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfimacionPerfil.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacion.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionAlumno.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmConfirmacionPerfilProfesores.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmEstadistica.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmProfesores.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Login.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Materias.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Notas.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.frmPersonalAdministrativo.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Properties.Resources.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.Reportes.resources
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.GenerateResource.cache
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfoInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.AssemblyInfo.cs
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.CoreCompileInputs.cache
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.csproj.Up2Date
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\refint\HILET.dll
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.pdb
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\HILET.genruntimeconfig.cache
+C:\Users\hilet.HILET\Desktop\HILET - PROYECTO FINAL\Proyecto Final - Hilet\HILET\HILET\obj\Debug\net8.0-windows\ref\HILET.dll

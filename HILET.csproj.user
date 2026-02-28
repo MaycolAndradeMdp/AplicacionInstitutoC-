@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\ABMAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\ABMCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\ABMExamenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\ABMMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\frmConfimacionPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\frmConfirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\frmEstadistica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HILET\PersonalAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
